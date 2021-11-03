@@ -12,13 +12,13 @@
 }
 .box_1 {
 }
-.box_2 {
-}
 .box_3 {
 }
 .image {
 }
 .button {
+}
+.shape {
 }
 .heading_1 {
   font-family:'Arial', sans-serif;
@@ -68,21 +68,33 @@
 .paragraph {
   text-align:left;
 }
-.text_link {
-  color:#0000FF;
+.form_hint {
+  color:#999999;
 }
-.text_link_mouse_over {
+.form_disabled {
+}
+.line {
+}
+.connector {
 }
 .text_field {
   color:#000000;
   text-align:left;
 }
-.text_link_mouse_down {
+.text_area {
+  color:#000000;
+  text-align:left;
 }
-.form_hint {
-  color:#999999;
+.droplist {
+  color:#000000;
+  text-align:left;
 }
-.form_disabled {
+.list_box {
+  color:#000000;
+  text-align:left;
+}
+.checkbox {
+  text-align:left;
 }
 .flow_shape {
 }
